@@ -1,7 +1,9 @@
 # Antek Async
 <div align="center">
 
-![AntekAsync Banner](https://img.shields.io/badge/Antek-Async-red?style=for-the-badge&logo=nodejs)
+![AntekAsync Banner](docs/AntekAsync.png)
+
+![AntekAsync Badge](https://img.shields.io/badge/Antek-Async-red?style=for-the-badge&logo=nodejs)
 [![Status](https://img.shields.io/badge/Status-Experimental-warning?style=for-the-badge)](https://github.com/WowoEngine/AntekAsync)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![Dependencies](https://img.shields.io/badge/Dependencies-Zero-green?style=for-the-badge)](package.json)
