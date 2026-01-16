@@ -112,6 +112,20 @@ Contoh: `antekasync://rahasia123@localhost:4000`
 
 Simpel, padat, dan jelas. Tidak ada pasal karet.
 
+## 📊 Benchmark Performance
+
+Hasil tes internal di laptop biasa (bukan server proyek triliunan):
+
+Test Environment: Single Thread, Windows Node.js (Localhost)
+
+| Protokol | Ops/Sec | Latency (avg) | Keterangan |
+|----------|---------|---------------|------------|
+| **AntekGateway (TCP)** | **~322,000** | **0.003 ms** | Secepat kilat, tanpa birokrasi. |
+| **HTTP Gateway** | ~1,850 | 0.540 ms | Cukup cepat untuk urusan administrasi. |
+| **MQTT** | *(Coming Soon)* | - | Masih dalam tahap "Kajian Akademis". |
+
+*Note: Hasil bisa berbeda tergantung amal ibadah dan spek komputer.*
+
 ## Kontribusi
 
 Proyek ini *Open Source*. Silakan berkontribusi. Jangan hanya bisa kritik tapi tidak kasih solusi. PR *welcome*, tapi jangan bawa muatan politis.
