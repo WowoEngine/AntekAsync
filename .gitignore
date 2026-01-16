@@ -13,6 +13,7 @@ coverage/
 # Production
 dist/
 build/
+tests/
 
 # Misc
 .DS_Store
