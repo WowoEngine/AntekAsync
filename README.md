@@ -48,6 +48,13 @@ Layaknya tata kota yang baik (bukan yang banjir kalau hujan), struktur Antek Asy
   └── index.js       # Gerbang Utama
 ```
 
+## Dokumentasi Lengkap
+
+Kami menyadari bahwa transparansi adalah kunci (walau sering dilupakan). Berikut adalah dokumen lengkap yang bisa diakses publik tanpa perlu mengajukan surat permohonan informasi:
+
+- **[Spesifikasi Protokol (Protocol.md)](docs/Protocol.md)**: Detail teknis `antekasync://` dan format paket. Baca ini agar tidak tersesat di jalan yang salah.
+- **[Arsitektur Sistem (Architecture.md)](docs/Architecture.md)**: Denah tata letak sistem. Jelas, terstruktur, dan tidak ada ruang gelap.
+
 ## Quick Start
 
 ### 1. Jalankan Server
