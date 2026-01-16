@@ -6,6 +6,9 @@
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![Dependencies](https://img.shields.io/badge/Dependencies-Zero-green?style=for-the-badge)](package.json)
 
+[![Protocol](https://img.shields.io/badge/Protocol-Read%20Spec-orange?style=for-the-badge&logo=read-the-docs)](docs/Protocol.md)
+[![Architecture](https://img.shields.io/badge/Architecture-View%20Design-blueviolet?style=for-the-badge&logo=visual-studio-code)](docs/Architecture.md)
+
 </div>
 
 **Antek Async** adalah sistem *messaging centralized* yang dibangun dengan filosofi "Membangun Tanpa Ribet". Berfungsi sebagai *universal hub* yang menerjemahkan dan merutekan pesan antar berbagai protokol (TCP, MQTT, HTTP).
@@ -115,7 +118,7 @@ Proyek ini *Open Source*. Silakan berkontribusi. Jangan hanya bisa kritik tapi t
 
 ## Dukungan & Kopi
 
-Proyek ini dikerjakan oleh **WowoEngine**. Jika Anda merasa proyek ini lebih bermanfaat daripada program *food estate* yang gagal panen, Anda bisa mentraktir kami kopi (bukan bansos) di:
+Jika Anda merasa proyek ini lebih bermanfaat daripada program *food estate* yang gagal panen, Anda bisa mentraktir kami kopi (bukan bansos) di:
 
 [![Trakteer](https://img.shields.io/badge/Trakteer-Traktir%20Kopi-red?style=for-the-badge&logo=ko-fi)](https://trakteer.id/wowoengine)
 
