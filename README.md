@@ -112,7 +112,7 @@ Contoh: `antekasync://rahasia123@localhost:4000`
 
 Simpel, padat, dan jelas. Tidak ada pasal karet.
 
-## 📊 Benchmark Performance
+## Benchmark Performance
 
 Hasil tes internal di laptop biasa (bukan server proyek triliunan):
 
