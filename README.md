@@ -113,5 +113,11 @@ Simpel, padat, dan jelas. Tidak ada pasal karet.
 
 Proyek ini *Open Source*. Silakan berkontribusi. Jangan hanya bisa kritik tapi tidak kasih solusi. PR *welcome*, tapi jangan bawa muatan politis.
 
+## Dukungan & Kopi
+
+Proyek ini dikerjakan oleh **WowoEngine**. Jika Anda merasa proyek ini lebih bermanfaat daripada program *food estate* yang gagal panen, Anda bisa mentraktir kami kopi (bukan bansos) di:
+
+[![Trakteer](https://img.shields.io/badge/Trakteer-Traktir%20Kopi-red?style=for-the-badge&logo=ko-fi)](https://trakteer.id/wowoengine)
+
 ---
 *Dibuat dengan dan sedikit di tengah hiruk pikuk berita negeri ini. Tetap ngoding walau harga bahan pokok naik.*
